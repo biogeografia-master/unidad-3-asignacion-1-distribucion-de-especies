@@ -25,12 +25,121 @@ Tu referencia será el capítulo 4 de @lomolino2006biogeography. Alternativament
 
 ## Preguntas/mandatos.
 
-Responde según las referencias señaladas arriba. En caso de que prefieras usar otras referencias, indícalas.
+Responde según la referencia señalada arriba. En caso de que prefieras usar otras referencias, indícalas.
 
-* ¿Cuáles son las principales variables climáticas que determinan la distribución de la vegetación terrestre?
+* ¿Cuál es la unidad fundamental en biogeografía? Defínela.
 
     Tu respuesta, aquí: ...
 
+* Si los individuos de una determinada especie presentan un patrón disperso en el borde de su ámbito o rango, la forma de la línea que delimite dicho borde dependerá de ...
+
+* El límite del ámbito de una especie normalmente es dinámico. Pon un ejemplo de una especie en República Dominicana cuyo límite de ámbito entiendas haya cambiado en tiempos históricos, y cita las razones que sustentan tu respuesta.
+
+    Tu respuesta, aquí: ...
+
+* Los tipos de mapas de rango de una especie son de límite (o de área), de puntos, isolíneas y, relacionado con el último, las imágenes rásters. Explica en menos de 200 caracteres cada uno.
+
+    Tu respuesta, aquí: ...
+
+* Malthus aseguraba que la disponibilidad de recursos limita el crecimiento de una población. ¿De qué depende la disponibilidad de recursos entonces?
+
+    Tu respuesta, aquí: ...
+
+* Escribe al menos dos formas de definir el nicho.
+
+    Tu respuesta, aquí: ...
+
+* Diferencia entre nicho potencial y nicho efectivo.
+
+    Tu respuesta, aquí: ...
+
+* Describe en menos de 200 caracteres el experimento de Connell con los percebes.
+
+    Tu respuesta, aquí: ...
+
+* El rango geográfico de una especie es un reflejo de su nicho. 
+
+    Tu respuesta, aquí: ...
+
+* El nicho multidimensional (en el sentido de Hutchinson) provee un marco concpetual para comprender el papel de los factores limitantes del ambiente. Sin embargo, las variables de dicho espacio multidimensional no son suficientes para explicar la distribución y la abundancia de una especie. Cita dos complicaciones que se superponen a los factores limitantes que influyen en la distribución.
+
+    Tu respuesta, aquí: ...
+
+* ¿Qué es el patrón agregado en la distribución espacial de la abundancia de una especie?
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
+
+* 
+
+    Tu respuesta, aquí: ...
 
 
 # Referencias
